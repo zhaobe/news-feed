@@ -14,3 +14,4 @@ A RSS news feed
 - make sure to have npm installed on local machine then run `npm install -g grunt-cli bower yo generator-karma generator-angular`
 - make and cd into a new directory (i.e. newsfeed-bootstrap)
 - `yo angular <app-name>`, options selected: no Gulp, no Sass, yes Bootstrap, default Angular modules
+- `grunt serve` to run the project
